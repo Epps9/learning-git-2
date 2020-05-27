@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css">
+        <link rel="stylesheet" href="css style.css">
+	<title>X Ambassadors Low Life</title>
+    </head>
+    <body>
+	<h1>X Ambassadors<h1>
+	<p>"Low Life"</p>
+	<p>I'm nothing but a low life
+Thinking about my own life
+I can't help myself from falling
+Can't help myself from falling
+I'm nothing but a low life
+Thinking about my own life
+I'm trying to fight the good own fight
+But after it all, I'm still just a low life
+Wanna be a better man, but it's a hard life
+Without that love inside you, it's a cown bind
+But, I started to reflect on all that's been before
+Started to wonder, but, but you can't be sure
+Now please tell me I'm broke
+It's much easier that way, 'cause I just let you down
+It's much easier that way
+I'm nothing but a low life (low life)
+Thinking 'bout my own life (own life)
+I can't help myself from falling
+Can't help myself from falling
+I'm nothing but a low life (low life)
+Thinking 'bout my own life (own life)
+I'm trying to fight the good own fight
+But after it all, I'm still just a low life
+There are words in my mind in the candlelight
+Cown hands on my heart keeping slow time
+And I started to reflect on all that's been before
+Started to wonder, but, but you can't be sure
+Now please tell me I'm broke
+It's much easier that way, 'cause I just let you down
+It's much easier that way
+I'm nothing but a low life (low life)
+Thinking 'bout my own life (own life)
+I can't help myself from falling
+Can't help myself from falling
+I'm nothing but a low life (low life)
+Thinking 'bout my own life (own life)
+I'm trying to fight the good own fight
+But after it all, I'm still just a low life
+I'm still just a low life
+Nothing but a low life
+I can't help myself from falling
+I can't help myself from falling
+I'm still just a low life
+I'm nothing but a low life
+(I'm trying to fight the good own fight
+But after it all, I'm still just a low life)
+I'm nothing but a low life (nothing but a low life)
+Thinking about my own life (thinking 'bout my own life)
+I can't help myself from falling (can't help myself)
+Can't help myself from falling (can't help myself)
+I'm nothing but a low life (nothing but a low life)
+Oh, I'm thinking about my own life (thinking 'bout my own life)
+I'm trying to fight the good own fight
+But after it all, I'm still just a low life</p>
+    </body>
+</html>
+	
